@@ -13,10 +13,10 @@ export default function Page4() {
         type="bottom"
       >
         <h2 key="h2">
-          微小 · 确定 · 幸福
+            LOVE · LIVE · HAPPY
         </h2>
         <p key="p">
-          这是一套致力于提升『用户』和『设计者』使用体验的中后台设计语言。
+        “𝑻𝒉𝒊𝒏𝒌𝒊𝒏𝒈 𝒐𝒇 𝒚𝒐𝒖 𝒌𝒆𝒆𝒑𝒔 𝒎𝒆 𝒂𝒘𝒂𝒌𝒆. 𝑫𝒓𝒆𝒂𝒎𝒊𝒏𝒈 𝒐𝒇 𝒚𝒐𝒖 𝒌𝒆𝒆𝒑𝒔 𝒎𝒆 𝒂𝒔𝒍𝒆𝒆𝒑. 𝑩𝒆𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝒚𝒐𝒖 𝒌𝒆𝒆𝒑𝒔 𝒎𝒆 𝒂𝒍𝒊𝒗𝒆.”
         </p>
       </QueueAnim>
       <TweenOne

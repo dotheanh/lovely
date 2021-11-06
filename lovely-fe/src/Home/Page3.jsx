@@ -21,14 +21,14 @@ export default function Page3({ isMobile }) {
         leaveReverse
         style={{ top: '40%' }}
       >
-        <h2 key="h2">丰富的基础组件'</h2>
+        <h2 key="h2">TOGETHER</h2>
         <p key="p" style={{ maxWidth: 280 }}>
-          丰富、灵活、实用的基础组件，为业务产品提供强有力的设计支持。
+            OUR JOURNEY TO ETERNITY.
         </p>
         <div key="button">
           <a>
             <Button type="primary" size="large">
-              了解更多
+              Show more
               <Icon type="right" />
             </Button>
           </a>

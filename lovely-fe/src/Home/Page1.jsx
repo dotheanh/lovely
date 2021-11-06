@@ -20,12 +20,12 @@ export default function Page1({ isMobile }) {
         key="text"
         leaveReverse
       >
-        <h2 key="h2">最佳实践</h2>
-        <p key="p" style={{ maxWidth: 310 }}>近一年的中后台设计实践，积累了大量的优秀案例。</p>
+        <h2 key="h2">LOVE YOU</h2>
+        <p key="p" style={{ maxWidth: 310 }}>OUR LOVE WILL LAST FOREVER.</p>
         <div key="button">
           <a>
             <Button type="primary" size="large">
-              了解更多
+              Show more
               <Icon type="right" />
             </Button>
           </a>

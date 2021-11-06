@@ -52,35 +52,13 @@ export default class Header extends React.Component {
       </Button>,
       <Menu mode={menuMode} defaultSelectedKeys={['home']} id="nav" key="nav">
         <Menu.Item key="home">
-          首页
+          TIME LINE
         </Menu.Item>
         <Menu.Item key="docs/spec">
-          指引
+          FEED
         </Menu.Item>
         <Menu.Item key="docs/react">
-          组件
-        </Menu.Item>
-        <Menu.Item key="docs/pattern">
-          模式
-        </Menu.Item>
-        <Menu.Item key="docs/resource">
-          资源
-        </Menu.Item>
-        <Menu.Item key="pro">
-          <a
-            href="http://pro.ant.design"
-            className="header-link"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            PRO
-            <span style={{
-              display: 'inline-block', position: 'relative', top: -2, width: 18,
-            }}
-            >
-              <Badge dot />
-            </span>
-          </a>
+          PLAY
         </Menu.Item>
       </Menu>,
     ];
@@ -107,8 +85,12 @@ export default class Header extends React.Component {
         <Row>
           <Col lg={4} md={5} sm={24} xs={24}>
             <a id="logo">
-              <img alt="logo" src="https://t.alipayobjects.com/images/rmsweb/T1B9hfXcdvXXXXXXXX.svg" />
-              <span>Ant Design</span>
+              <img alt="logo" src="../../res/img/avt_menu.jpg" />
+              <span>THE ANH</span>
+            </a>
+            <a id="logo">
+              <span>LAN HUONG</span>
+              <img alt="logo" src="../../res/img/avt_menu_2.jpg" />
             </a>
           </Col>
           <Col lg={20} md={19} sm={0} xs={0}>

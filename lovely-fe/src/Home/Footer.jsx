@@ -9,36 +9,22 @@ function Footer() {
         <Row>
           <Col lg={6} sm={24} xs={24}>
             <div className="footer-center">
-              <h2>Ant Design</h2>
-              <div>
-                <a target="_blank " href="https://github.com/ant-design/ant-design">
-                  GitHub
-                </a>
-              </div>
-              <div>
-                <a href="http://pro.ant.design">Ant Design Pro</a>
-              </div>
-              <div>
-                <a href="http://mobile.ant.design">Ant Design Mobile</a>
-              </div>
-              <div>
-                <a href="http://ng.ant.design">NG-ZORRO</a>
-                <span> - </span>
-                Ant Design of Angular
-              </div>
-              <div>
-                <a target="_blank " href="https://github.com/websemantics/awesome-ant-design">
-                  Awesome Ant Design
-                </a>
-              </div>
-              <div>
-                <a target="_blank " href="http://ant-design.gitee.io/">
-                  国内镜像站点 🇨🇳
-                </a>
-              </div>
             </div>
           </Col>
           <Col lg={6} sm={24} xs={24}>
+            <div className="footer-center">
+            </div>
+          </Col>
+          <Col lg={6} sm={24} xs={24}>
+            <div className="footer-center">
+            </div>
+          </Col>
+          <Col lg={6} sm={24} xs={24}>
+            <div className="footer-center">
+              <h2>SAI GON, 29/08/2021</h2>
+            </div>
+          </Col>
+          {/* <Col lg={6} sm={24} xs={24}>
             <div className="footer-center">
               <h2>资源链接</h2>
               <div>
@@ -132,10 +118,10 @@ function Footer() {
                 企业级 Node 开发框架
               </div>
             </div>
-          </Col>
+          </Col> */}
         </Row>
       </div>
-      <Row className="bottom-bar">
+      {/* <Row className="bottom-bar">
         <Col lg={4} sm={24} />
         <Col lg={20} sm={24}>
           <span
@@ -163,7 +149,7 @@ function Footer() {
           <span style={{ marginRight: 12 }}>ICP 证浙 B2-2-100257</span>
           <span style={{ marginRight: 12 }}>Copyright © 蚂蚁金融服务集团</span>
         </Col>
-      </Row>
+      </Row> */}
     </footer>
   );
 }
