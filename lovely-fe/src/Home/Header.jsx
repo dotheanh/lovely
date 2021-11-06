@@ -85,12 +85,12 @@ export default class Header extends React.Component {
         <Row>
           <Col lg={4} md={5} sm={24} xs={24}>
             <a id="logo">
-              <img alt="logo" src="../../res/img/avt_menu.jpg" />
+              <img alt="logo" src="https://scontent.fsgn5-8.fna.fbcdn.net/v/t1.6435-9/139260309_2249341975209810_1633963821834950038_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=h0ZtcJkFhHQAX_yeg-d&_nc_ht=scontent.fsgn5-8.fna&oh=e19f19b741d191aee0d670ec0615e679&oe=61A9C7CF" />
               <span>THE ANH</span>
             </a>
             <a id="logo">
               <span>LAN HUONG</span>
-              <img alt="logo" src="../../res/img/avt_menu_2.jpg" />
+              <img alt="logo" src="https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/237935115_2033781410107415_7418908367087038463_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=-1NIqwzuh5oAX8ULao6&_nc_ht=scontent.fsgn5-5.fna&oh=b79b84e79660797af39f1e7bd4f51734&oe=618BD3CF" />
             </a>
           </Col>
           <Col lg={20} md={19} sm={0} xs={0}>
