@@ -7,6 +7,7 @@ import Page1 from './Page1';
 import Page2 from './Page2';
 import Page3 from './Page3';
 import Page4 from './Page4';
+import Page5 from './Page5';
 import Footer from './Footer';
 import './static/style';
 
@@ -43,6 +44,7 @@ class Home extends React.PureComponent {
         <Page2 key="page2" />,
         <Page3 key="page3" isMobile={this.state.isMobile} />,
         <Page4 key="page4" />,
+        <Page5 key="page5" />,
         <Footer key="footer" />,
         <DocumentTitle title="Ant Design - 一个 UI 设计语言" key="title" />,
       ]
